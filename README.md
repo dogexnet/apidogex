@@ -1,2 +1,3 @@
-# apidogex
-APIdogex
+# Apidogex
+APIdogex Public
+Api.DOGEX.net
